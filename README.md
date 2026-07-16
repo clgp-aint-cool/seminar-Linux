@@ -2,6 +2,10 @@
 
 Hệ điều hành Linux và ứng dụng
 
+# project demo for gafana: https://github.com/googlecloudplatform/microservices-demo
+
+(A open source GG boutique sale using microservices)
+
 ## A. General Requirements (apply to all topics)
 
 ### Group & logistics
